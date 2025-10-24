@@ -1,0 +1,35 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# AI/ML Libraries
+ultralytics==8.1.0
+mediapipe==0.10.9
+opencv-python==4.9.0.80
+torch==2.1.2
+torchvision==0.16.2
+
+# LangChain and LLM
+langchain==0.1.0
+langchain-core==0.1.10
+pydantic==2.5.3
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+scipy==1.11.4
+
+# Data Processing
+numpy==1.24.3
+pandas==2.1.4
+Pillow==10.2.0
+
+# API Clients
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Others
+absl-py==2.0.0
